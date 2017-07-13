@@ -1,0 +1,10 @@
+Package: org.thebigboss.switchautofocus
+Name: SwitchAutofocus
+Depends: mobilesubstrate, firmware (>= 5.0), gsc.auto-focus-camera, ws.hbang.common (>= 1.2)
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Does autofocus annoy you?
+Author: PoomSmart
+Maintainer: PoomSmart
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/SAFSettings.bundle/SAF@2x.png

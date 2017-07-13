@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = "SAFSettings";
+		cell = PSLinkCell;
+		detail = "SAFPreferenceController";
+		icon = "SAF.png";
+		isController = 1;
+		label = "SwitchAutofocus";
+	};
+}
